@@ -39,3 +39,14 @@ Finally, the last heat map shown below is the most important. It very clearly sh
 Viewing the graphics compiled above, the results are clear. The primary user of the Citi Bike service in New York is not tourist/recreational related. Rather it is local subscribers, primarily male, using the service as an alternative to the daily commute back and forth to work. What should be noted is the large disparity between male and female usage.
 
 The original question, however, must be answered. The answer is compelling. The bike share service's primary income source is not tourist related. As such, the tourist market in Des Moines is not a factor. There is more than enough market for daily commuters. Furthermore, with the demographics skewed heavily to the males, it indicates there is a huge potential in an underserved market with respect to female commuters indicating that marketing the program may require different approaches with respect to males and females. Potential rewards for such a marketing approach are significant.
+
+Three additional potential visualizations that may reinforce the decision to pursue a bike sharing program in Des Moines are as follows:
+
+    -Broaden the visualizations to include the entire year. The purpose of this is to ensure that the daily commute theory holds.
+
+    -Include Weather related data for both Ney York City and Des Moines to determine how temperature and precipitation affects the usage.
+
+    -Another graphic to pursue would be correlating age to highest usage are to indicate how to target the greatest concentration of users.
+
+## Link to the Tableau Report
+https://public.tableau.com/app/profile/joseph.l.eck/viz/Citi_Bike_Bikesharing_Analysis/CitiBikeSharingStory?publish=yes 
